@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatimah186
 - 👀 I’m interested in coding and UI designing
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently working on something cooler!!!
 - 📫 You can reach me at fatimaismail186@gmail.com
 
 <!---
